@@ -32,6 +32,10 @@ Default test set can be run using:
 
 Run task `aggregate` using Gradle: `gradle aggregate` or Maven: `mvn aggregate`
 
+* *Where I can find generated test report?*
+
+By default test reports are saved in the project folder under `target/site/serenity/index.html`
+
 * *Can I do all the above at once?*
 
 Yes, run one of the following commands:
