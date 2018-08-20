@@ -32,4 +32,3 @@ dependencies {
 }
 
 gradle.startParameter.continueOnFailure = true
-
